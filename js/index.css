@@ -1,0 +1,146 @@
+header .container-fluid
+{
+    background-image: url(../images/bg_header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40vw;
+    padding-top: 36px;
+}
+
+.hamburger
+{
+    font-size: 3.3em;
+
+    color: #000;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+   
+}
+
+.hamburger:hover
+{
+  color: #FFF;
+  cursor: pointer;
+}
+
+
+.logo
+{
+    background: none;
+    border: 0px;
+}
+
+.jumbotron
+{
+    background: none;
+    text-align: center;
+}
+
+
+
+.jumbotron p
+{
+    color: #FFFFFF;
+    margin-bottom: 5%;
+}
+
+.col-md-offset-8 {
+  margin-left: 66.66666666666666%;
+}
+
+#about{
+    background-image:url(../images/bg_nuage.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 670px;
+    background-position: center ;
+     }
+
+
+ 
+  .col{
+    
+    margin-left: 20px; 
+    margin-left: 20px;
+    
+
+  }
+  .row{
+    padding-left: 100px;
+  }
+  .cadrebleu{
+    background-color: rgba(19, 161, 204, 0.575);
+    height: 670px;
+  }
+  .border{
+    height: 85px;
+    width: 85px;
+    margin-right: 110px;
+    color: #FFF;
+    
+  }
+  .nab{
+    padding-top: 75px;
+    color: #FFF;
+    font-size: 23px;
+    
+  }
+  
+  
+  .bb{
+    padding-top: 60px;
+    font-size: 20px;
+  }
+  .me{
+    padding-top: 50px;
+    padding-left: 220px;
+    padding-bottom: 50px;
+  }
+  .as{
+    
+   
+    background-color: rgba(19, 161, 204, 0.575);
+    height: 600px;
+
+  }
+  #history{
+    background-image: url(../images/bg_appareil_photo.jpg);
+    background-size:cover;
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    
+  }
+  .tt{
+    font-size: 25px;
+    color: #FFF;
+
+  }
+  .yy{
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #FFF;
+  }
+  .ll{
+    padding-left: 240px;
+  }
+  .partenaires{
+    background-image:url(../images/bg_newsletter.jpg);
+    background-size: cover;
+    width: 100%;
+    padding-right:600px;
+    color: #FFF;
+  }
+  .foot{
+    background-color: rgb(1, 15, 39);
+    width: 100%;
+    height: 100px;
+  }
+  .bal{
+    padding-left: 300px;
+    
+  }
+
